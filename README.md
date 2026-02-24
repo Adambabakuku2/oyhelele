@@ -1,4 +1,4 @@
-# vodqa Özel Oda Sistemi
+# kurbaga Özel Oda Sistemi
 
 OzelOda, gelişmiş ve özelleştirilebilir bir Discord botudur. Bot; komut sistemi, event yönetimi, veri saklama, otomatik başlatma, özel yapılandırmalar ve kolay kurulum sistemi ile donatılmıştır.
 
